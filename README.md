@@ -74,7 +74,7 @@ specific occasions.
 - Dimension Tables: **Date, Product, City, Occasion**  
 - Created relationships through Power Pivot  
 
-### **3. DAX Measures (Examples)**
+### **3. DAX Measures**
 
 ```DAX
 Total Orders = COUNTROWS(Fact_Sales)
